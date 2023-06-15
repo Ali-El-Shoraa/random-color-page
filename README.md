@@ -1,2 +1,2 @@
-# random-color-page
-random color page
+# random-color
+Random color page
